@@ -1,0 +1,12 @@
+"cuav-chapters",  //左侧目录折叠
+"back-to-top-button", //返回顶部
+"page-toc-button",  //右上角目录
+"hide-element", //隐藏元素
+"lightbox", //图片可点击放大
+"flexible-alerts", //好看的提示栏样式
+"todo", //todo列表，显示样式
+
+//高级搜索
+"-lunr",
+"-search",
+"search-pro"

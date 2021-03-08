@@ -1,0 +1,34 @@
+{
+  "title":"Discovery Unlimited",
+  "author": "Jarod Sun",
+  "links": {
+        "sidebar": {
+            "Website": "http://jarodsun.com"
+        }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins":[
+    "-sharing",
+    "page-toc-button",
+    "back-to-top-button",
+    "cuav-chapters",
+    "-lunr",
+    "-search",
+    "search-pro",
+    "hide-element",
+    "lightbox",
+    "flexible-alerts",
+    "todo",
+    "theme-default"
+  ],
+  "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "theme-default": {
+              "showLevel": false
+        }
+  }
+}
